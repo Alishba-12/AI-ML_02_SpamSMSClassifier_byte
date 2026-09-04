@@ -83,7 +83,6 @@ Click the badge above to open the notebook in Colab - no setup required!
 
 ### Option 2: Run Locally
 
-```bash
 # Clone the repository
 git clone https://github.com/Alishba-12/spam-sms-classifier.git
 cd spam-sms-classifier
