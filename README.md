@@ -22,9 +22,3 @@
 | **F1-Score (Spam)** | 0.97 |
 | **AUC-ROC** | 0.99 |
 
-### Confusion Matrix
-<div align="center">
-  <img src="outputs/confusion_matrix/confusion_matrix.png" width="70%">
-</div>
-
-### Classification Report
